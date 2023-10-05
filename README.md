@@ -1,1 +1,1 @@
-# Scoreboard_application
+# RMUTL Scoreboard
